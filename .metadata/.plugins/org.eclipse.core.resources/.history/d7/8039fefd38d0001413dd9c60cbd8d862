@@ -7,8 +7,6 @@ public class FactoryDemo {
 		
 		Shape shape1 = shapeFactory.getShape("CIRCLE");
 		shape1.draw();
-		Shape shape2 = shapeFactory.getShape("TRIANGLE");
-		shape2.draw();
 
 	}
 
