@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.designPatterns.factorypattern.Square"/>
+<fullyQualifiedTypeName name="com.designPatterns.factorypattern.Triangle"/>
+<fullyQualifiedTypeName name="com.designPatterns.factorypattern.Rectangle"/>
+<fullyQualifiedTypeName name="com.designPatterns.factorypattern.Shape"/>
+<fullyQualifiedTypeName name="com.designPatterns.factorypattern.ShapeFactory"/>
+<fullyQualifiedTypeName name="com.designPatterns.factorypattern.Circle"/>
+</qualifiedTypeNameHistroy>
